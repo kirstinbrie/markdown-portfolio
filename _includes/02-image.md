@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![A sunny portrait of Kirstin](https://share.icloud.com/photos/0OkDov19R97E3OVbI57fBeFOQ)
