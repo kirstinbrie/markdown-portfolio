@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Kirstin Morris
+## kirstinbmorris@gmail.com
+### adult educator and instructional designer
